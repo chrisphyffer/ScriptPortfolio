@@ -1,0 +1,11 @@
+Here is a description of the following UE4 screenshots:
+
+*UE4_Blueprint_DMXSimulator* - A blueprint to simulate a DMX lighting Rig
+
+*UE4_Blueprint_LightAnimator(A and B)* - A blueprint to spawn, animate and delete lights based upon certain conditions. 
+
+*The results become UE_Blueprint_Animator_Results* - Where lights are spawned randomly, and fall down at random speeds with random intensity. They pulsate in the Y axis in a fashion similar to a sine wave
+
+*UE4_MaterialGraph_CommonPBR* - A Standard PBR material used as a base for material instances. I use material instances wherever possible for unlimited customizations and performance reasons.
+
+*UE4_MaterialGraph_CommonSkin* - The same as `CommonPBR` but with principles applied to UE4's paragon skin assets.
