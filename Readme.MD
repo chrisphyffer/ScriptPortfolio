@@ -1,4 +1,4 @@
-**SCRIPTING SKILL DEMONSTRATION
+**SCRIPTING SKILL DEMONSTRATION**
 
 Attached are several snippets of code I developed, from various personal projects I have worked on. They include the following:
 
