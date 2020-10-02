@@ -27,7 +27,7 @@ E.) If an AI is ALLY, they will protect you.
 
 extends KinematicBody
 
-# THIS IS AN ABSTRACT CLASS. YOU SHOULD NOT INHERIT IT.
+# THIS IS AN ABSTRACT CLASS. YOU SHOULD NOT Instantiate it.
 class_name Character
 
 ###################
