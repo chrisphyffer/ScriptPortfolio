@@ -1,5 +1,7 @@
+# Test_Run.py - This application parses a set of data files and orders them according to the
+# "precedent" key, located in the node_objects module. It is really just a demonstration of
+# the MergeSort algorithm, use of classes, file IO and hex->utf8 decode.
 # Christopher Phyffer
-# Zenimax Test
 
 import os, json, re
 import utilities
